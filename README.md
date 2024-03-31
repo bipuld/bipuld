@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bipul Dawadu</h1>
+<h1 align="center">Hi 👋, I'm Bipul DawadI</h1>
 <h3 align="center">Crafting Innovative Solutions: A Software Engineer's Journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipuld&label=Profile%20views&color=0e75b6&style=flat" alt="bipuld" /> </p>
